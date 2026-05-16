@@ -46,7 +46,7 @@ export default function RootLayout({
       <body>
         {/* Фоновые премиум-эффекты */}
         <div className="swiss-grid" />
-        <div className="film-grain" />
+
 
         <LenisProvider>
           <Cursor />
